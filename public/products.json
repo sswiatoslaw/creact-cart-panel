@@ -1,0 +1,58 @@
+[
+    {
+        "name": "iPhone 6s Plus",
+        "price": "200",
+        "image": "https://swipe.ua/content/images/29/aktivirovannyy-apple-iphone-6s-32gb-space-gray-mn0w2id-76650627542553.png",
+        "article": "435",
+        "color": "Grey"  
+    },
+    {
+        "name": "Samsung S10",
+        "price": "600",
+        "image": "https://i.citrus.ua/imgcache/size_500/uploads/shop/f/6/f667f668bfd2ce39f369a7a493a560f9.jpg",
+        "article": "168",
+        "color": "Black"  
+    },
+    {
+        "name": "Nokia 3310",
+        "price": "1000",
+        "image": "https://квазар.net/image/cache/catalog/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B8%D1%8F/Telefony/Nokia/3310/nokia-3310-dual-sim-dark-blue-760x760.jpg",
+        "article": "41",
+        "color": "Grey"  
+    },
+    {
+        "name": "iPhone 7",
+        "price": "600",
+        "image": "https://i.citrus.ua/imgcache/size_500/uploads/shop/6/c/6cbbf7c3490f5fcfb9c09809c48053be.jpg",
+        "article": "4541",
+        "color": "Grey"  
+    },
+    {
+        "name": "iPhone 6s Plus",
+        "price": "200",
+        "image": "https://swipe.ua/content/images/29/aktivirovannyy-apple-iphone-6s-32gb-space-gray-mn0w2id-76650627542553.png",
+        "article": "4635",
+        "color": "Grey"  
+    },
+    {
+        "name": "Samsung S10",
+        "price": "600",
+        "image": "https://i.citrus.ua/imgcache/size_500/uploads/shop/f/6/f667f668bfd2ce39f369a7a493a560f9.jpg",
+        "article": "1868",
+        "color": "Black"  
+    },
+    {
+        "name": "Nokia 3310",
+        "price": "1000",
+        "image": "https://квазар.net/image/cache/catalog/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B8%D1%8F/Telefony/Nokia/3310/nokia-3310-dual-sim-dark-blue-760x760.jpg",
+        "article": "471",
+        "color": "Grey"  
+    },
+    {
+        "name": "iPhone 7",
+        "price": "600",
+        "image": "https://i.citrus.ua/imgcache/size_500/uploads/shop/6/c/6cbbf7c3490f5fcfb9c09809c48053be.jpg",
+        "article": "541",
+        "color": "Grey"  
+    }
+]

@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: center;
+    a{
+        transition: 0.5s;
+        font-size: 20px;
+        text-decoration: none;
+        margin: 0 10px;
+        color: #000;
+    }
+    a:hover{
+        color: rgb(75, 93, 255);
+    }
+}

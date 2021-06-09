@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "GothamProRegular";
+    src: url("./../fonts/GothamProRegular/GothamProRegular.eot");
+    src: url("./../fonts/GothamProRegular/GothamProRegular.eot?#iefix")format("embedded-opentype"),
+    url("./../fonts/GothamProRegular/GothamProRegular.woff") format("woff"),
+    url("./../fonts/GothamProRegular/GothamProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+.product{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    img{
+        width: 220px;
+        padding: 30px;
+        border: 1px solid #EDEDED;
+    }
+    .favorite-icon{
+        cursor: pointer;
+        transition: 0.5s;
+        position: absolute;
+        left: 10px;
+        top: 10px;
+    }
+    .favorite-icon:hover{
+        font-size: 50px;
+    }
+    .product-text{
+        display: flex;
+        justify-content: space-between;
+        font-family: GothamProRegular;
+        font-weight: 400;
+        text-transform: uppercase;
+        color: #372821;
+        align-items: center;
+        h1{
+            font-size: 20px;
+        }
+        p{
+            font-size: 20px;
+
+        }
+    }
+}
