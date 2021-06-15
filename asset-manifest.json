@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/creact-cart-panel/static/css/main.a29ed62d.chunk.css",
-    "main.js": "/creact-cart-panel/static/js/main.f0f04332.chunk.js",
-    "main.js.map": "/creact-cart-panel/static/js/main.f0f04332.chunk.js.map",
+    "main.js": "/creact-cart-panel/static/js/main.6f4c3743.chunk.js",
+    "main.js.map": "/creact-cart-panel/static/js/main.6f4c3743.chunk.js.map",
     "runtime-main.js": "/creact-cart-panel/static/js/runtime-main.0225ccc9.js",
     "runtime-main.js.map": "/creact-cart-panel/static/js/runtime-main.0225ccc9.js.map",
     "static/js/2.29411cb6.chunk.js": "/creact-cart-panel/static/js/2.29411cb6.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.0225ccc9.js",
     "static/js/2.29411cb6.chunk.js",
     "static/css/main.a29ed62d.chunk.css",
-    "static/js/main.f0f04332.chunk.js"
+    "static/js/main.6f4c3743.chunk.js"
   ]
 }
