@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/creact-cart-panel/static/css/main.a29ed62d.chunk.css",
+    "main.js": "/creact-cart-panel/static/js/main.3fd3f366.chunk.js",
+    "main.js.map": "/creact-cart-panel/static/js/main.3fd3f366.chunk.js.map",
+    "runtime-main.js": "/creact-cart-panel/static/js/runtime-main.0225ccc9.js",
+    "runtime-main.js.map": "/creact-cart-panel/static/js/runtime-main.0225ccc9.js.map",
+    "static/js/2.29411cb6.chunk.js": "/creact-cart-panel/static/js/2.29411cb6.chunk.js",
+    "static/js/2.29411cb6.chunk.js.map": "/creact-cart-panel/static/js/2.29411cb6.chunk.js.map",
+    "index.html": "/creact-cart-panel/index.html",
+    "static/css/main.a29ed62d.chunk.css.map": "/creact-cart-panel/static/css/main.a29ed62d.chunk.css.map",
+    "static/js/2.29411cb6.chunk.js.LICENSE.txt": "/creact-cart-panel/static/js/2.29411cb6.chunk.js.LICENSE.txt",
+    "static/media/Product.scss": "/creact-cart-panel/static/media/GothamProRegular.aa3126db.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0225ccc9.js",
+    "static/js/2.29411cb6.chunk.js",
+    "static/css/main.a29ed62d.chunk.css",
+    "static/js/main.3fd3f366.chunk.js"
+  ]
+}
